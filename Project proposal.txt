@@ -1,0 +1,23 @@
+Sir, We are proposing 3 ideas and we will choose anyone idea for project submission.
+
+Idea 1
+(a) Title - Home Security circuit system .
+(b) Overall objective - Ring the alarm in selected condition.
+(c) If it would be implemented as RTL or software application - yes, it would be able to implement as software application.
+(d) functionality - there are 4 boolean variable which give logic 1 with condition the control switch is off, no movement detected, the clock is between 12am and 6am, and the door is closed,respectively.
+		    the alarm will ring(Logic 1) when there is a movement detected when control switch is off OR when the door is opened after midnight OR when the door is opened when control switch is on.
+Idea 2
+(a) Title - Logic solver.
+(b) Overall objective - that can take boolean equations with any number of variable and optimize it for 2-level gates solution.
+(c) If it would be implemented as RTL or software application - yes, it would be able to implement as software application.
+(d) functionality - it would convert a given boolean equation into product of sum (POS) or sum of product (SOP) which eventually give a 2-level gates solution.
+
+Idea 3
+(a) Title - Implementation of QM-Method.
+(b) Overall objective - it can convert a complex boolen expression into a simple boolen expression as far as poosible.
+(c) If it would be implemented as RTL or software application - yes, it would be able to implement as software application.
+(d) functionality - All the terms in the Boolean function are tested for possible combination of any two of them, after which a new sets of terms that are smaller by one literal are produced and are further tested 
+under the same procedures for further reduction. The same procedures will be repeated until no terms can be combined anymore.
+
+by
+Sumit Kumar(2020csb1130) and Sumit Kumar(2020csb1131)
