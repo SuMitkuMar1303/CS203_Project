@@ -242,7 +242,7 @@ void assending_order()
         {
             if(tmp1->data[0]<tmp2->data[0])       
             {
-                exchange(tmp1,tmp2);
+                //exchange(tmp1,tmp2);
             }
             tmp2=tmp2->right;
         }
