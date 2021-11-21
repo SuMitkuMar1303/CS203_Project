@@ -1,6 +1,6 @@
 # CS203_Project
-1.NOTE-FOR NEGATION USE '!' IN PLACE OF '.
-NOTE-max number of variable allowed id 11.
+1. NOTE-FOR NEGATION USE '!' IN PLACE OF '.
+2. NOTE-max number of variable allowed id 11.
 NOTE-if a term in expression does not contain all variable then add all value contain in group.
 EXAMPLE-in 3 variable expression if a term is AC! then it is combination of ABC! and AB!C! then we have to add remain term,program take value of a term of in which missing 
 variable present in negation. you have to enter minterm value of remaing term in the group, like in example program automatically take AB!C! (because reamining variable 
