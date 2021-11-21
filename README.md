@@ -33,9 +33,9 @@ The minimized function is :- A                                                  
 2. from line 3 to 6, our program present minterm value of terms we enter in SOP expreesion, 
 3. in line 3, 'No. Of term' mean order of term in expreesion like AB!C is first term, ABC is second term and AC! is third term
 4. NOW, in our input expreesion, third term(AC!) does not contain all variable ('B' is missing), means it represent 'AB!C!' and 'ABC!', now our program only take those term 
-    in which missing term is present in negation(here 'AB!C!'), so we have to enter value remaing term in minterm value (ABC! = 3)
-5. In line 7, program ask either you want to enter any remaing term or not (here ABC! is remaing so, we type 'Y')
-6. In line 9, program ask number of remaing term(here only ABC! is remaing so, we give 1 as input)
+    in which missing term is present in negation(here 'AB!C!'), so we have to enter value rremaining term in minterm value (ABC! = 3)
+5. In line 7, program ask either you want to enter any remaining term or not (here ABC! is remaining so, we type 'Y')
+6. In line 9, program ask number of remaining terms(here only ABC! is remaing so, we give 1 as input)
 7. In line 11, program ask value of remaining terms minterm value, one at a time (here minterm value is ABC! = 3)
 8. In Line 13, program give final output.
 9. I suppose this will helpful to understand, if you have any confusion pelease let us know.
