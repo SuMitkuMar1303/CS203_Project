@@ -38,5 +38,5 @@ The minimized function is :- A                                                  
 6. In line 9, program ask number of remaining terms(here only ABC! is remaining so, we give 1 as input)
 7. In line 11, program ask value of remaining terms minterm value, one at a time (here minterm value is ABC! = 3)
 8. In Line 13, program give final output.
-9. I suppose this will helpful to understand, if you have any confusion pelease let us know.
+9. I suppose this will helpful to understand, if you have any confusion please let us know.
 10. thanks.
