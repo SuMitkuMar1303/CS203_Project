@@ -1,4 +1,6 @@
 # CS203_Project
+# Logic Solver
+---
 1. NOTE-FOR NEGATION USE '!' IN PLACE OF '
 2. NOTE-max number of variable allowed is 11.
 3. NOTE-if a term in expression does not contain all variable then add all value contain in group.
