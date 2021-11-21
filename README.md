@@ -1,14 +1,14 @@
 # CS203_Project
 1. NOTE-FOR NEGATION USE '!' IN PLACE OF '.
 2. NOTE-max number of variable allowed id 11.
-NOTE-if a term in expression does not contain all variable then add all value contain in group.
-EXAMPLE-in 3 variable expression if a term is AC! then it is combination of ABC! and AB!C! then we have to add remain term,program take value of a term of in which missing 
-variable present in negation. you have to enter minterm value of remaing term in the group, like in example program automatically take AB!C! (because reamining variable 
-present in negation) and then remain term is ABC! so,we have to enter minterm value of ABC! which is 3.
+3. NOTE-if a term in expression does not contain all variable then add all value contain in group.
+4. EXAMPLE-in 3 variable expression if a term is AC! then it is combination of ABC! and AB!C! then we have to add remain term,program take value of a term of in which missing 
+   variable present in negation. you have to enter minterm value of remaing term in the group, like in example program automatically take AB!C! (because reamining variable 
+   present in negation) and then remain term is ABC! so,we have to enter minterm value of ABC! which is 3.
 
 HERE I PRESENT OUTPUT OF OUR PROGRAM TO EXPLAIN PROPERLY
---------------------------------------------------------------
-```c
+---
+```
 Please enter expression in SOP and check that all term are a midterm in expression
 AB!C+ABC+AC!
 No. Of term     minterm value
@@ -25,7 +25,7 @@ enter value of min term
 
 The minimized function is :- A
 ```
-----------------------------------------------------------------
+---
 (1) In line 10, we give our input in SOP form.
 (2) from line 12 to 15, our program present minterm value of terms we enter in SOP expreesion, 
 (3) in line 12, 'No. Of term' mean order of term in expreesion like AB!C is first term, ABC is second term and AC! is third term
