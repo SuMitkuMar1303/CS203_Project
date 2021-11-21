@@ -10,6 +10,7 @@
 
 HERE I PRESENT OUTPUT OF OUR PROGRAM TO EXPLAIN PROPERLY
 ---
+---
 ```
 Please enter expression in SOP and check that all term are a midterm in expression  //line 1
 AB!C+ABC+AC!                                                                        //line 2
